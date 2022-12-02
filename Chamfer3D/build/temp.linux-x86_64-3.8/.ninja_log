@@ -1,0 +1,7 @@
+# ninja log v5
+1	11162	1633471310374831675	/home/core/Dropbox/UofSC/Research_Assistant/Point_Manifold_Upconvolution/code/Manifold_Deconv/Chamfer3D/build/temp.linux-x86_64-3.8/chamfer3D.o	e73907e8c4ad0b95
+0	23520	1633471322726550157	/home/core/Dropbox/UofSC/Research_Assistant/Point_Manifold_Upconvolution/code/Manifold_Deconv/Chamfer3D/build/temp.linux-x86_64-3.8/chamfer_cuda.o	44c6327e75b3ee8
+0	12709	1637606217487978875	/home/pingping/Dropbox/UofSC/Research_Assistant/Point_Manifold_Upconvolution/code/Manifold_Deconv/Chamfer3D/build/temp.linux-x86_64-3.8/chamfer3D.o	b015f4e810d2fa77
+0	23769	1637606228543753371	/home/pingping/Dropbox/UofSC/Research_Assistant/Point_Manifold_Upconvolution/code/Manifold_Deconv/Chamfer3D/build/temp.linux-x86_64-3.8/chamfer_cuda.o	53416fa19ca6c549
+1	11595	1640532051878858822	/data/pcai/MMPCD/MMPCD_V1/Chamfer3D/build/temp.linux-x86_64-3.8/chamfer3D.o	97b92984ff6dd0ee
+0	20378	1640532060654742444	/data/pcai/MMPCD/MMPCD_V1/Chamfer3D/build/temp.linux-x86_64-3.8/chamfer_cuda.o	b7edac67addd3e96

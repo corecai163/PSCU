@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp  -rdynamic CMakeFiles/evaluation.dir/evaluation.cpp.o  -o evaluation  -lmpfr -lgmp 

@@ -1,0 +1,5 @@
+# ninja log v5
+0	7572	1628895891126306571	/home/pingping/Dropbox/UofSC/Research Assistant/PCDCompletion/MSN-Point-Cloud-Completion/emd/build/temp.linux-x86_64-3.8/emd_cuda.o	c27b8de789ea88ea
+0	15202	1628895898750322650	/home/pingping/Dropbox/UofSC/Research Assistant/PCDCompletion/MSN-Point-Cloud-Completion/emd/build/temp.linux-x86_64-3.8/emd.o	dd84e979e97a864e
+0	12651	1640616630213791454	/data/pcai/MMPCD/MMPCD_V1/Emd/build/temp.linux-x86_64-3.8/emd_cuda.o	ebbd66b2efff8598
+0	21983	1640616639537671254	/data/pcai/MMPCD/MMPCD_V1/Emd/build/temp.linux-x86_64-3.8/emd.o	ac539dd6b2fc0b15
