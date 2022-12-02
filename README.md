@@ -1,8 +1,16 @@
 # PSCU
 Parametric Surface Constrained Upsampler Network for Point Cloud
 
-# Pretrained Model and Results
+# Environment
 
+
+# Data and Results
+
+https://drive.google.com/drive/folders/1Yz9WfAJy145hmD-F1MUvHsjwr6doaOTn?usp=sharing
+
+# Pretrained Model
+
+outpath/checkpoints/ckpt-best.pth
 
 # Train
 With 2 GPU:
