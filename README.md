@@ -6,7 +6,9 @@ Parametric Surface Constrained Upsampler Network for Point Cloud
 Pytorch 1.12.0 with Nvidia GPUs
 
 Setup Libs
+
 Install pointnet2_ops_lib and Chamfer3D:
+
 python3 setup.py install
 
 
@@ -39,12 +41,14 @@ Run gen_pcd_distance2rgb.py
 # Citation
 If our method and results are useful for your research, please consider citing:
 
+```
 @inproceedings{PSCU,
     title={Parametric Surface Constrained Upsampler Network for Point Cloud},
     author={Pingping Cai, Zhenyao Wu, Xinyi Wu, Song Wang},
     booktitle={AAAI},
     year={2023},
 }
+```
 
 # Acknowledgement
-Some code is borrowed from https://github.com/AllenXiangX/SnowflakeNet and https://github.com/guochengqian/PU-GCN
+Some codes are borrowed from https://github.com/AllenXiangX/SnowflakeNet and https://github.com/guochengqian/PU-GCN
