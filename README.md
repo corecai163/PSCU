@@ -26,7 +26,7 @@ With 2 GPU:
 python3 -m torch.distributed.launch --nproc_per_node=2 multi_train.py
 
 # Test
-python3 test.py
+CUDA_VISIBLE_DEVICES=0 python3 test.py
 
 # P2F and Uniformity
 The p2f evaluation code is from PUGCN.
