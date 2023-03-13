@@ -1,5 +1,6 @@
 # PSCU
 Parametric Surface Constrained Upsampler Network for Point Cloud
+![Teaser](https://github.com/corecai163/PSCU/Teaser.png)
 
 # Environment
 
