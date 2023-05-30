@@ -21,7 +21,7 @@ from torch.utils.data.distributed import DistributedSampler
 from torch.optim.lr_scheduler import StepLR
 from utils.schedular import GradualWarmupScheduler
 from utils.loss_utils import get_loss
-from models.model import Manifold_Net as Model
+from models.model import Upsample_Net as Model
 from config import cfg
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"] = cfg.CONST.DEVICE
