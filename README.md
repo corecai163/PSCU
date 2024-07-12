@@ -45,7 +45,7 @@ If our method and results are useful for your research, please consider citing:
 ```
 @inproceedings{PSCU,
     title={Parametric Surface Constrained Upsampler Network for Point Cloud},
-    author={Pingping Cai, Zhenyao Wu, Xinyi Wu, Song Wang},
+    author={Cai, Pingping and Wu, Zhenyao and Wu, Xinyi and Wang, Song},
     booktitle={AAAI},
     year={2023},
 }
